@@ -1,18 +1,19 @@
 # Nifty_50_e_Indian_Stock_Market
 
 Problem Statement:
-You are provided with the marketing spend data of an online advertising firm who are looking to optimize their cost spend on ads while increasing their yield in terms of marketing goals.
+You have to analyze 2 decades of the Nifty 50 index in the Indian Stock Market and come up with strategies to invest for higher returns in the future.
 
 Objective:
-Analyze the data and find actionable insights in the given data, come up with strategies that use Data Science and AI techniques to optimize their marketing spends for maximum yield
+Your objective is to analyze the data and come up with strategies to build a portfolio that will bring the maximum yield.
 
 Tasks to be Performed:
-1.Preprocess the data for feature selection and feature engineering
+Analyze the indicators in the dataset that best explain the volatility and unpredictable nature of the stocks in the last decade.
+Choose promising stock based on your analysis for your portfolio
+Build a dashboard where you can analyze the performance of the stocks
+Feature engineer and build machine learning solutions for the business Requirements.
 
-2.Analyze the data for actionable insights by end to end Exploratory Data Analysis
+![image](https://github.com/user-attachments/assets/1e7e1f71-2e8f-49c6-a5d7-20fe272cbe53)
 
-3.Perform statistical analysis both Descriptive and Inferential for higher level insights
+![image](https://github.com/user-attachments/assets/47a65e34-d5d9-4a33-a29b-366cd0d04a9f)
 
-4.Devise a strategy and machine learning model that will solve the business problem
 
-![image](https://github.com/user-attachments/assets/39894c3d-d616-4e1a-be81-3acff9f0e64e)
